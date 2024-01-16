@@ -1,16 +1,26 @@
-### Hi there 👋
+# Eduardo Kuhn - Desenvolvedor Mobile Full-Stack
 
-<!--
-**Dotedook/Dotedook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 👨‍💻 Desenvolvedor Mobile Full-Stack em Montenegro, RS, Brasil.
+- 🌐 Estudante de Ciência da Computação na UNISINOS.
+- 🎓 Formado como técnico em química.
 
-Here are some ideas to get you started:
+## Tecnologias e Linguagens
+- 🚀 Dart (Flutter)
+- 📱 Kotlin (Android nativo)
+- 🍏 Swift (iOS nativo)
+- 💻 Javascript (Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+- Atualmente, estou trabalhando em uma migração completa de um projeto iOS e Android nativo para um aplicativo Flutter.
+- Colaborei na criação de um projeto que coexiste com código nativo, totalmente modularizado em Dart e Flutter.
+
+## Interesses
+- 👾 Apaixonado por inteligência artificial.
+- 📊 Interesse na área de ciência de dados.
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/eduardo-kuhn/)
+
+## Mensagem Pessoal
+Sinta-se a vontade de me mandar uma mensagem onde quiser! Meu e-mail é augusto.kuhn@gmail.com
